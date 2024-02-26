@@ -1,6 +1,6 @@
 <h1 align="center"> Secret Word </h1>
 <p align="center">
-Primeira aplicção desenvolvida com React <br/>
+Primeira aplicação desenvolvida com React <br/>
 </p>
 
 <br>
